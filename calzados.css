@@ -24,16 +24,16 @@ li {
 	padding: 1rem 2rem 1.15rem;
   text-transform: uppercase;
   cursor: pointer;
-  color: #9666f0;
+  color: #4e4759;
 	min-width: 80px;
 	margin: auto;
 }
 
 li:hover {
   background-size: 100% 100%;
-  color: #7e76a1;
+  color: #5a5669;
   animation: spring 300ms ease-out;
-  text-shadow: 0 -1px 0 #ef816c;
+  text-shadow: 0 -1px 0 #5dae3d;
 	font-weight: bold;
 }
 li:active {
